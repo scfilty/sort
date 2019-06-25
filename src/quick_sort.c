@@ -33,6 +33,7 @@ void quick_sort(int A[], int n){
   if (n == 1) return;
 
   quick_sort(A,n/2);
+  
 
 }
 
